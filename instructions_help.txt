@@ -1,0 +1,14 @@
+// Use following comands to write script:
+//
+// open <path or web page URL> - Open Web page in default browser or folder in explorer, f.e:
+//			        open "C:\Program Files"
+// 				open "https://www.google.com.ua/intl/en/policies/terms/regional.html"
+// edit <full_filename> - Open file <full_filename> to edit in "Notepad++", f.e: edit C:\Temp\MyLogs.txt
+// 
+// execute <full_filename> <params_string> - Execute <full_filename> programm or script, f.e.:
+// 				execute "C:\Program Files\7-Zip\7z.exe" "--help"
+//				execute "C:\Scripts\MyScript.bat" "-i intput.txt -o output.txt"
+// Notes:
+//     - Use '//' to comment line.
+//     - Write each command in separete line, like in batch script
+//
